@@ -1,0 +1,51 @@
+title: Sample Demo Repo
+date: 2025-12-31
+author: user.name@gmail.com
+
+description: |
+  Imagine walking into a whiteboard meeting, sketching a few rough boxes, and walking out with a fully functional, deployed application. That is the promise of **Volo-Scribe**, a new multimodal generative engine that bridges the gap between abstract ideation and production-ready code.
+  
+  Unlike previous "image-to-code" models that relied on static screenshots, Volo-Scribe utilizes a continuous, live-vision stream. It watches you draw in real-time and listens to your verbal context, instantly rendering a high-fidelity, interactive prototype on a connected display.
+  
+  ### Core Capabilities: The "Liquid UI"
+  
+  What makes the demo truly breathtaking is the "Liquid UI" feature. As you physically erase a line on the whiteboard to move a navigation bar, the digital prototype reflows instantly—no compiling, no waiting. It understands intent over precision, meaning a messy circle becomes a perfect user avatar, and a jagged line becomes a smooth, responsive vector graph.
+  
+  Volo-Scribe manages this through three distinct synchronized layers:
+  
+  * **Live Vision Stream:** Captures physical gestures, erasing, and drawing with sub-millisecond latency.
+  * **Semantic Audio Context:** Listens for verbal commands to modify state.
+  > *Example Command: "Let's make this button toggle a dark mode state, but keep the padding distinct."*
+  
+  
+  * **Logic Synthesis:** Unlike standard image generators, it constructs the underlying logic, state management, and accessibility trees (ARIA labels) simultaneously.
+  
+  ### Customization for Production Workflows
+  
+  For developers and designers looking to integrate this into actual workflows, Volo-Scribe offers deep semantic customization. You aren't stuck with generic, AI-generated styles. The engine allows for:
+  
+  1. **Design System Ingestion:** You can upload your Figma tokens, CSS variables, and component libraries directly into the model's context window.
+  2. **Linting Adherence:** Once calibrated, Volo-Scribe will only generate UI elements that strictly adhere to your brand guidelines and linting rules.
+  3. **Stack-Specific Output:** Whether you are building a React Native mobile app or a dashboard in Vue, you can toggle the output syntax to match your specific tech stack.
+  
+  This turns a casual brainstorming session into a commit-ready repository in minutes, preserving the specific aesthetic constraints of your project while automating the boilerplate.
+
+tags:
+  - LLM
+  - AI
+  - Collaboration
+
+# URL to the live demo
+live: https://gemini.google.com/
+
+assets:
+  - title: Video walkthrough
+    url: https://www.youtube.com/watch?v=OIJywyYQrd8
+  - title: Architecture diagram
+    url: https://cloud.google.com/
+
+images:
+  - caption: Cool image number one
+    url: https://incubator.ucf.edu/wp-content/uploads/2023/07/artificial-intelligence-new-technology-science-futuristic-abstract-human-brain-ai-technology-cpu-central-processor-unit-chipset-big-data-machine-learning-cyber-mind-domination-generative-ai-scaled-1-1500x1000.jpg
+  - caption: Another example image for this demo
+    url: https://www.investopedia.com/thmb/4K3hIci9bUF3521OUjC-cCG3NpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/terms_a_artificial-intelligence-ai_asp-FINAL-ddba8ac599f3438d8064350d2ee1ae5a.jpg
